@@ -39,4 +39,4 @@ Trabajaremos con los siguientes ODS:
 | | **Nombre** | Responsable de investigación |Generación de conocimiento útil, innovación con próposito, sostenibilidad integral|
 | | **NOmbre** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | | **Nombre** | Encargado/a de documentación | Comunicación científica, organización de la información,redacción técnica y síntesis de contenidos |
-| | **Nombre** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| | **Junior Orlano Pablo Firma** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
