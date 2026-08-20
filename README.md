@@ -1,4 +1,4 @@
-# FdD_Equipo_9 
+# FdD_Equipo_09 
 ### Carrera de Ingeniería Industrial / Informática / Ambiental  
 **Universidad Peruana Cayetano Heredia**
 
