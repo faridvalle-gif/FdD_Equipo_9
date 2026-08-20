@@ -2,7 +2,7 @@
 ### Carrera de Ingeniería Industrial / Informática / Ambiental  
 **Universidad Peruana Cayetano Heredia**
 
----
+---.
 
 ## 🌍 Descripción del Equipo 
 Somos el **Equipo 09** del curso **Fundamentos de Diseño**, conformado por estudiantes de la carrera de Industrial / Ambiental e Informática.  
