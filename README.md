@@ -16,8 +16,7 @@ Trabajaremos con los siguientes ODS:
 
 ### ODS 09 - Industria, Innovación y Sostenibilidad
 <img src="images/ods-09.png" width="300">
-<img src="images/ods-11.png" width="300">
-<img src="images/ods-12.png" width="300">
+
 ### ODS 11 - Ciudades y Comunidades Sostenibles
 <img src="images/ods-11.png" width="300">
 
