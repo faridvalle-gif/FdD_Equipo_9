@@ -30,5 +30,6 @@ Trabajaremos con los siguientes ODS:
 
 ## 👥 Integrantes del Equipo  
 
+
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
