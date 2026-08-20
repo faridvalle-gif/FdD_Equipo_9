@@ -35,7 +35,7 @@ Trabajaremos con los siguientes ODS:
 
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
-| | **Nombre** | Líder del equipo | Innovación social, sostenibilidad |
+| | **Gabriel Yalef Moncca Rodriguez** | Líder del equipo | Innovación social, sostenibilidad |
 | | **Yamileth Anahi Tenorio Inocente** | Responsable de investigación |Generación de conocimiento útil, innovación con próposito, sostenibilidad integral|
 | | **Farid Alexandre Valle Aguirre** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | | **Harold Dair Avilez Salinas** | Encargado/a de documentación | Comunicación científica, organización de la información,redacción técnica y síntesis de contenidos |
