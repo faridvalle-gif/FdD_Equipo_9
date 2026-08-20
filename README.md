@@ -36,3 +36,4 @@ Trabajaremos con los siguientes ODS:
 |------|--------|-----|-----------|
 Yalef Gabriel Moncca Rodríguez
 Farid Alexandre Valle Aguirre
+Junior Orlando Pablo Firma
