@@ -15,7 +15,7 @@ proyecto-ods/
 Trabajaremos con los siguientes ODS:
 
 ### ODS 09 - Industria, Innovación y Sostenibilidad
-
+<img src="images/ods-09.png" width="300">
 ### ODS 11 - Ciudades y Comunidades Sostenibles
 
 ### ODS 12 - Producción y Consumo Responsables
