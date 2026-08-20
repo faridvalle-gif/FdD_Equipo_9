@@ -35,3 +35,4 @@ Trabajaremos con los siguientes ODS:
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 Yalef Gabriel Moncca Rodríguez
+Farid Alexandre Valle Aguirre
