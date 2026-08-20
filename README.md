@@ -26,7 +26,7 @@ Trabajaremos con los siguientes ODS:
 ---
 
 ## 📸 Fotografía del Equipo  
-
+<img src="images/grupal.jpeg" width="300">
 
 ---
 
