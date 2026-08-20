@@ -34,5 +34,5 @@ Trabajaremos con los siguientes ODS:
 
 
 | Foto | Nombre | Rol | Intereses |
-|------|-----|-----------|
+|------|--------|-----|-----------|
 
