@@ -37,7 +37,7 @@ Trabajaremos con los siguientes ODS:
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | | **Nombre** | Líder del equipo | Innovación social, sostenibilidad |
-| | **Harold Dair Avilez Salinas** | Responsable de investigación |Generación de conocimiento útil, innovación con próposito, sostenibilidad integral|
+| | **** | Responsable de investigación |Generación de conocimiento útil, innovación con próposito, sostenibilidad integral|
 | | **Farid Alexandre Valle Aguirre** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| | **Nombre** | Encargado/a de documentación | Comunicación científica, organización de la información,redacción técnica y síntesis de contenidos |
+| | **Harold Dair Avilez Salinas** | Encargado/a de documentación | Comunicación científica, organización de la información,redacción técnica y síntesis de contenidos |
 | | **Junior Orlano Pablo Firma** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
