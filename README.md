@@ -14,8 +14,10 @@ proyecto-ods/
 
 Trabajaremos con los siguientes ODS:
 
+---
 ### ODS PRINCIPAL 
 ---
+
 ### ODS 13 - Acción por el clima 
 Busca fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima, integrar medidas en políticas y estrategias nacionales, y mejorar la educación y la conciencia sobre el cambio climático. La reducción de emisiones de gases de efecto invernadero es clave para limitar el calentamiento global.
 
@@ -24,8 +26,10 @@ invernadero, como el metano producido en tanques de tratamiento, contribuye dire
 #### Meta 13.2: Integrar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
 #### Meta 13.3: Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto a la mitigación del cambio climático.
 
+---
 ### ODS RELACIONADAS
 ---
+
 ### ODS 09 - Industria, Innovación y Sostenibilidad
 Porque el proyecto implica el desarrollo e implementación de tecnologías innovadoras para el monitoreo ambiental.
 Promueve la construcción de infraestructuras resilientes, la industrialización sostenible y la innovación tecnológica
