@@ -25,6 +25,7 @@ Esta ODS se enfoca en tomar medidas urgentes para combatir el cambio climático 
 invernadero, como el metano producido en tanques de tratamiento, contribuye directamente a esta meta.
 #### Meta 13.2: Integrar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
 #### Meta 13.3: Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto a la mitigación del cambio climático.
+<img src="images/ods 13.jpg" width="300">
 
 ---
 ### ODS RELACIONADAS
