@@ -54,7 +54,7 @@ Relacionado con la gestión sostenible de residuos y la reducción de emisiones 
 ### Delimitación del tema o problemática a abordar 
 En los procesos de tratamiento de aguas residuales, los tanques de tratamiento pueden generar metano y otros gases que contribuyen al efecto invernadero. Sin embargo, la medición y monitoreo continuo de estas emisiones no siempre se realiza de manera eficiente o sistemática, lo que dificulta la implementación de estrategias efectivas para su mitigación.
 
-La problemática que abordaremos se centra en la necesidad de desarrollar sistemas tecnológicos que permitan sensar y cuantificar con precisión la cantidad de gases de efecto invernadero producidos en las profundidades de los tanques de tratamiento. Este monitoreo es crucial para entender mejor las emisiones, evaluar su impacto ambiental y apoyar la toma de decisiones para reducirlas.
+# La problemática que abordaremos se centra en la necesidad de desarrollar sistemas tecnológicos que permitan sensar y cuantificar con precisión la cantidad de gases de efecto invernadero producidos en las profundidades de los tanques de tratamiento. Este monitoreo es crucial para entender mejor las emisiones, evaluar su impacto ambiental y apoyar la toma de decisiones para reducirlas.
 
 ---
 
