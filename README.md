@@ -74,3 +74,14 @@ En los procesos de tratamiento de aguas residuales, los tanques de tratamiento p
 | <img src="images/Farid.png" width="300"> | **Farid Alexandre Valle Aguirre** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
 | <img src="images/Harold.png" width="300"> | **Harold Dair Avilez Salinas** | Encargado/a de documentación | Comunicación científica, organización de la información,redacción técnica y síntesis de contenidos |
 | <img src="images/Junior.png" width="300"> | **Junior Orlano Pablo Firma** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+
+---
+### Resumen final del grupo 
+
+Somos un equipo comprometido con el desarrollo de soluciones tecnológicas innovadoras que contribuyan a la sostenibilidad ambiental y la mitigación del cambio climático. Nuestro enfoque principal es abordar la problemática de las emisiones de gases de efecto invernadero, específicamente el metano producido en los tanques de tratamiento de aguas residuales, un factor clave en el calentamiento global.
+
+A través del curso, buscamos profundizar en el conocimiento y aplicación de sistemas embebidos para el monitoreo ambiental, integrando variables críticas que permitan medir con precisión estas emisiones. Nuestro objetivo es aportar a la acción climática (ODS 13) mediante el desarrollo de tecnologías que faciliten la reducción de gases contaminantes, al mismo tiempo que promovemos la innovación (ODS 9), la sostenibilidad urbana (ODS 11) y la gestión responsable de recursos (ODS 12).
+
+Como grupo, valoramos el trabajo colaborativo, la investigación rigurosa y la aplicación práctica de conocimientos para generar un impacto positivo en nuestras comunidades y en el planeta. Estamos motivados por la oportunidad de contribuir a un futuro más sostenible y consciente del medio ambiente.
+
+---
