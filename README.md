@@ -21,8 +21,8 @@ Busca fortalecer la resiliencia y la capacidad de adaptación a los riesgos rela
 
 Esta ODS se enfoca en tomar medidas urgentes para combatir el cambio climático y sus impactos. La medición y control de gases de efecto
 invernadero, como el metano producido en tanques de tratamiento, contribuye directamente a esta meta.
-## Meta 13.2: Integrar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
-## Meta 13.3: Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto a la mitigación del cambio climático.
+#### Meta 13.2: Integrar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
+#### Meta 13.3: Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto a la mitigación del cambio climático.
 
 ### ODS RELACIONADAS
 ---
@@ -30,19 +30,19 @@ invernadero, como el metano producido en tanques de tratamiento, contribuye dire
 Porque el proyecto implica el desarrollo e implementación de tecnologías innovadoras para el monitoreo ambiental.
 Promueve la construcción de infraestructuras resilientes, la industrialización sostenible y la innovación tecnológica
 para impulsar el desarrollo económico y mejorar la calidad de vida.
-### Meta 9.4: Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, con mayor eficiencia en el uso de recursos y mayor adopción de tecnologías limpias.
+#### Meta 9.4: Modernizar la infraestructura y reconvertir las industrias para que sean sostenibles, con mayor eficiencia en el uso de recursos y mayor adopción de tecnologías limpias.
 <img src="images/ods-09.png" width="300">
 
 ### ODS 11 - Ciudades y Comunidades Sostenibles
 Pretende lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles, mejorando la calidad del aire y reduciendo la contaminación.
 Al contribuir a la reducción de contaminantes atmosféricos, se mejora la calidad de vida en comunidades urbanas y rurales.
-### Meta 11.6: Reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la calidad del aire.
+#### Meta 11.6: Reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la calidad del aire.
 <img src="images/ods-11.png" width="300">
 
 ### ODS 12 - Producción y Consumo Responsables
 Busca asegurar modalidades de consumo y producción sostenibles, reduciendo la generación de desechos y promoviendo el uso eficiente de los recursos.
 Relacionado con la gestión sostenible de residuos y la reducción de emisiones contaminantes en procesos industriales y de tratamiento.
-### Meta 12.4: Lograr la gestión ambientalmente racional de los productos químicos y todos los desechos a lo largo de su ciclo de vida.
+#### Meta 12.4: Lograr la gestión ambientalmente racional de los productos químicos y todos los desechos a lo largo de su ciclo de vida.
 <img src="images/ods-12.png" width="300">
 
 
