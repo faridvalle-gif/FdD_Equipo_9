@@ -15,14 +15,17 @@ proyecto-ods/
 Trabajaremos con los siguientes ODS:
 
 ### ODS PRINCIPAL 
+---
 ### ODS 13 - Acción por el clima 
 Busca fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima, integrar medidas en políticas y estrategias nacionales, y mejorar la educación y la conciencia sobre el cambio climático. La reducción de emisiones de gases de efecto invernadero es clave para limitar el calentamiento global.
+
 Esta ODS se enfoca en tomar medidas urgentes para combatir el cambio climático y sus impactos. La medición y control de gases de efecto
 invernadero, como el metano producido en tanques de tratamiento, contribuye directamente a esta meta.
-### Meta 13.2: Integrar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
-### Meta 13.3: Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto a la mitigación del cambio climático.
+## Meta 13.2: Integrar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
+## Meta 13.3: Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto a la mitigación del cambio climático.
 
-### ODS RELACIONADAS 
+### ODS RELACIONADAS
+---
 ### ODS 09 - Industria, Innovación y Sostenibilidad
 Porque el proyecto implica el desarrollo e implementación de tecnologías innovadoras para el monitoreo ambiental.
 Promueve la construcción de infraestructuras resilientes, la industrialización sostenible y la innovación tecnológica
@@ -48,6 +51,7 @@ Relacionado con la gestión sostenible de residuos y la reducción de emisiones 
 En los procesos de tratamiento de aguas residuales, los tanques de tratamiento pueden generar metano y otros gases que contribuyen al efecto invernadero. Sin embargo, la medición y monitoreo continuo de estas emisiones no siempre se realiza de manera eficiente o sistemática, lo que dificulta la implementación de estrategias efectivas para su mitigación.
 
 La problemática que abordaremos se centra en la necesidad de desarrollar sistemas tecnológicos que permitan sensar y cuantificar con precisión la cantidad de gases de efecto invernadero producidos en las profundidades de los tanques de tratamiento. Este monitoreo es crucial para entender mejor las emisiones, evaluar su impacto ambiental y apoyar la toma de decisiones para reducirlas.
+
 ---
 
 ## 📸 Fotografía del Equipo  
