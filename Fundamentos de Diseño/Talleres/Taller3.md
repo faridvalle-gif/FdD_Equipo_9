@@ -16,6 +16,37 @@ Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing An
 
 -->Este artículo examina cómo logran coexistir las bacterias reductoras de sulfato (SRB) y las arqueas metanogénicas (MA) en las biopelículas anaerobias del alcantarillado, a pesar de competir por los mismos recursos nutricionales (como hidrógeno y acetato).
 
+# Taller 03 - Busqueda y Comparación de Fuentes Académicas
+## Artículos Científicos
+| N° | Nombre | Tema | Aporte | Año | Referencias |
+|----|--------|------|--------|-----|-------------|
+| 1 |
+| 2 |
+| 3 |
+
+## Tesis
+| N° | Nombre | Tema | Aporte | Año | Referencias |
+|----|--------|------|--------|-----|-------------|
+| 1 |
+| 2 |
+| 3 |
+
+## Guías Técnicas
+| N° | Nombre | Tema | Aporte | Año | Referencias |
+|----|--------|------|--------|-----|-------------|
+| 1 |
+| 2 |
+| 3 |
+
+## Patentes
+| N° | Nombre | Tema | Aporte | Año | Referencias |
+|----|--------|------|--------|-----|-------------|
+| 1 |
+| 2 |
+| 3 |
+
+
+
 
 Biliografia:
 
