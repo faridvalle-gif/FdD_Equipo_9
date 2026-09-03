@@ -42,8 +42,8 @@ Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing An
 | N° | Título | Tema | Aporte | Año | Referencias |
 |----|--------|------|--------|-----|-------------|
 | 1 |A greenhouse gas monitoring device for wastewater treatment plants
-| 2 |
-| 3 |
+| 2 |A detector for detecting molecules conveyed through a gaseous medium
+| 3 |An online greenhouse gas monitoring system for sewage treatment process
 
 
 
