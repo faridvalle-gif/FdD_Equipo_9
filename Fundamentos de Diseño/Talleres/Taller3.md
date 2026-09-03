@@ -5,4 +5,8 @@ Propuesta Metodológica para Estimar N2O en Inventarios de Emisión y Evaluacion
 
 Locating and quantifying CH4 sources within  a wastewater treatment plant based on  mobile measurements
 
--->Este artículo científico presenta una investigación enfocada en la detección y cuantificación de las emisiones de metano dentro de una gran planta de tratamiento de aguas residuales urbanas en China mediante mediciones móviles y modelos inversos.
+--> Este artículo científico presenta una investigación enfocada en la detección y cuantificación de las emisiones de metano dentro de una gran planta de tratamiento de aguas residuales urbanas en China mediante mediciones móviles y modelos inversos.
+
+
+In Situ Observations Reveal Underestimated Greenhouse Gas Emissions from Wastewater Treatment with Anaerobic Digestion − Sludge Was a Major Source for Both CH4 and N2O:
+--> Los autores investigaron si las emisiones de gases de efecto invernadero (GEI) de las plantas de tratamiento de aguas residuales (PTAR) con digestión anaerobia están siendo subestimadas por los métodos de cálculo utilizados actualmente por el IPCC. Para ello realizaron mediciones directas mediante drones equipados con sensores de metano (CH₄) y óxido nitroso (N₂O) en 13 instalaciones de Suecia.
