@@ -9,4 +9,5 @@ Locating and quantifying CH4 sources within  a wastewater treatment plant based 
 
 
 In Situ Observations Reveal Underestimated Greenhouse Gas Emissions from Wastewater Treatment with Anaerobic Digestion − Sludge Was a Major Source for Both CH4 and N2O:
+
 --> Los autores investigaron si las emisiones de gases de efecto invernadero (GEI) de las plantas de tratamiento de aguas residuales (PTAR) con digestión anaerobia están siendo subestimadas por los métodos de cálculo utilizados actualmente por el IPCC. Para ello realizaron mediciones directas mediante drones equipados con sensores de metano (CH₄) y óxido nitroso (N₂O) en 13 instalaciones de Suecia.
