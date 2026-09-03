@@ -12,6 +12,10 @@ In Situ Observations Reveal Underestimated Greenhouse Gas Emissions from Wastewa
 
 --> Los autores investigaron si las emisiones de gases de efecto invernadero (GEI) de las plantas de tratamiento de aguas residuales (PTAR) con digestión anaerobia están siendo subestimadas por los métodos de cálculo utilizados actualmente por el IPCC. Para ello realizaron mediciones directas mediante drones equipados con sensores de metano (CH₄) y óxido nitroso (N₂O) en 13 instalaciones de Suecia.
 
+Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing Anaerobic Sewer Biofilms
+
+-->Este artículo examina cómo logran coexistir las bacterias reductoras de sulfato (SRB) y las arqueas metanogénicas (MA) en las biopelículas anaerobias del alcantarillado, a pesar de competir por los mismos recursos nutricionales (como hidrógeno y acetato).
+
 
 Biliografia:
 
