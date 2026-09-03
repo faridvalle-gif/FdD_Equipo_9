@@ -41,7 +41,7 @@ Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing An
 ## Patentes
 | N° | Título | Tema | Aporte | Año | Referencias |
 |----|--------|------|--------|-----|-------------|
-| 1 |
+| 1 |A greenhouse gas monitoring device for wastewater treatment plants
 | 2 |
 | 3 |
 
