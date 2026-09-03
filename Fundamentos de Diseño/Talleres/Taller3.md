@@ -20,26 +20,26 @@ Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing An
 ## Artículos Científicos
 | N° | Nombre | Tema | Aporte | Año | Referencias |
 |----|--------|------|--------|-----|-------------|
-| 1 |
-| 2 |
-| 3 |
+| 1 |Automated System to Optimize the Process and Energy Consumption for Sewage Treatment Plant Based on Gas Emission by Using Sensors and IoT|Automatización de plantas de tratamiento de aguas residuales mediante sensores de gases e IoT.|Propone un sistema automatizado basado en sensores de CH₄, NH₃, CO₂, CO y H₂S conectados mediante IoT para monitorear en tiempo real el estado del tratamiento. Demuestra que el análisis de emisiones gaseosas permite optimizar el proceso de aireación, reduciendo el consumo energético en un 15 % y mejorando la eficiencia operativa. Sirve como referencia para el uso de sensores inteligentes, monitoreo continuo y sistemas de decisión automatizados basados en datos ambientales.|2025|
+| 2 |In Situ Observations Reveal Underestimated Greenhouse Gas Emissions from Wastewater Treatment with Anaerobic Digestion – Sludge Was a Major Source for Both CH4 and N2O|
+| 3 |Locating and Quantifying CH₄ Sources within a Wastewater Treatment Plant Based on Mobile Measurements|
 
 ## Tesis
-| N° | Nombre | Tema | Aporte | Año | Referencias |
+| N° | Título | Tema | Aporte | Año | Referencias |
 |----|--------|------|--------|-----|-------------|
 | 1 |
 | 2 |
 | 3 |
 
 ## Guías Técnicas
-| N° | Nombre | Tema | Aporte | Año | Referencias |
+| N° | Título | Tema | Aporte | Año | Referencias |
 |----|--------|------|--------|-----|-------------|
 | 1 |
 | 2 |
 | 3 |
 
 ## Patentes
-| N° | Nombre | Tema | Aporte | Año | Referencias |
+| N° | Título | Tema | Aporte | Año | Referencias |
 |----|--------|------|--------|-----|-------------|
 | 1 |
 | 2 |
