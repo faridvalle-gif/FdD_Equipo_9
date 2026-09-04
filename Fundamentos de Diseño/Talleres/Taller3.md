@@ -34,9 +34,9 @@ Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing An
 ## Guías Técnicas
 | N° | Título | Tema | Aporte | Año | Referencias |
 |----|--------|------|--------|-----|-------------|
-| 1 |
-| 2 |
-| 3 |
+| 1 |Cátedra AQUAE Economía del Agua – Propuesta Metodológica para Estimar N2O en Plantas de Tratamiento de Aguas Residuales|
+| 2 |Climate-Mitigation-in-Wastewater-Treatment-A-Practical-Guide.pdf|
+| 3 |U.S. Patent for Monitoring method and device of dissolved greenhouse gases in wastewater Patent (Patent # 12,339,259 issued June 24, 2025) - Justia Patents Search|
 
 ## Patentes
 | N° | Título | Tema | Aporte | Año | Referencias |
