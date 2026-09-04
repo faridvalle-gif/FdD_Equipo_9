@@ -57,7 +57,7 @@ Biliografia:
 6. Arias Jara A. Gestión de la calidad del aire por aprovechamiento energético del metano generado en los biodigestores Imhoff de la Planta de Tratamiento de Aguas Residuales Totora, Ayacucho, 2015. Lima: Universidad Nacional Federico Villarreal; 2018.
 7. 
 8. Junker AL, Polesel F, Dalkvist T. Climate mitigation in wastewater treatment: a practical guide. Monitoring, managing and reducing greenhouse gas emissions in wastewater treatment plants. Copenhagen: UNEP-DHI Centre on Water and Environment; 2025.
-9. 
+9. Liu Y, Zhang X, Wang J, inventores. Monitoring method and device of dissolved greenhouse gases in wastewater. US Patent 12,339,259. Washington, DC: US Patent and Trademark Office; 2025.
 10. Fan (2026) / CN116338087B
 11. Barnett et al. (2010) / AU2005236083B2
 12. Li et al. (2024) / CN118817638A
