@@ -43,7 +43,7 @@ Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing An
 |----|--------|------|--------|-----|-------------|
 | 1 |A greenhouse gas monitoring device for wastewater treatment plants|
 | 2 |A detector for detecting molecules conveyed through a gaseous medium|
-| 3 |An online greenhouse gas monitoring system for sewage treatment process|
+| 3 |An online greenhouse gas monitoring system for sewage treatment process| Monitoreo continuo y automatizado de la tasa de emisión de GEI en procesos biológicos de depuración.|Medición in situ en tiempo real mediante un flujo de muestreo automatizado para cuantificar emisiones producidas durante el proceso de tratamiento.|2024|Li et al. (2024) / CN118817638A
 
 
 
