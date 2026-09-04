@@ -49,6 +49,20 @@ Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing An
 
 
 Biliografia:
+1. Ullas S, Maheswari BU, Ponnekanti S, Mohan Kumar TM. Automated system to optimize the process and energy consumption for sewage treatment plant based on gas emission by using sensors and IoT. IEEE Access. 2025;13. doi:10.1109/ACCESS.2025.3585283.
+2. Gålfalk M, Bastviken D. In situ observations reveal underestimated greenhouse gas emissions from wastewater treatment with anaerobic digestion: sludge was a major source for both CH₄ and N₂O. Environ Sci Technol. 2025;59:18146-18155. doi:10.1021/acs.est.5c04780.
+3. Yang J, Xu Z, Xia Z, Pei X, Yang Y, Qiu B, Zhao S, Zhang Y, Wang Z. Locating and quantifying CH₄ sources within a wastewater treatment plant based on mobile measurements. Atmos Chem Phys. 2025;25:4571-4585. doi:10.5194/acp-25-4571-2025.
+4. Gallardo Avendaño JF. Predicción y mitigación de emisiones de N₂O en plantas de tratamiento de aguas residuales . Valparaíso: Universidad Técnica Federico Santa María; 2025.
+5. Ramírez Melgarejo MG. Propuesta metodológica para estimar N₂O en inventarios de emisión y evaluaciones de eco-eficiencia en plantas de tratamiento de aguas residuales. Barcelona: Universitat Politècnica de Catalunya; 2020.
+6. Arias Jara A. Gestión de la calidad del aire por aprovechamiento energético del metano generado en los biodigestores Imhoff de la Planta de Tratamiento de Aguas Residuales Totora, Ayacucho, 2015. Lima: Universidad Nacional Federico Villarreal; 2018.
+7. 
+8. Junker AL, Polesel F, Dalkvist T. Climate mitigation in wastewater treatment: a practical guide. Monitoring, managing and reducing greenhouse gas emissions in wastewater treatment plants. Copenhagen: UNEP-DHI Centre on Water and Environment; 2025.
+9. 
+10. Fan (2026) / CN116338087B
+11. Barnett et al. (2010) / AU2005236083B2
+12. Li et al. (2024) / CN118817638A
+
+    
 
 1.Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing Anaerobic Sewer Biofilms. Applied and Environmental Microbiology [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://journals.asm.org/doi/10.1128/AEM.02146-14
 
