@@ -63,6 +63,3 @@ Biliografia:
 12. Li et al. (2024) / CN118817638A
 
     
-
-1.Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing Anaerobic Sewer Biofilms. Applied and Environmental Microbiology [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://journals.asm.org/doi/10.1128/AEM.02146-14
-
