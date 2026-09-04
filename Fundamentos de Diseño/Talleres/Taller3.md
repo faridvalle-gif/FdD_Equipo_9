@@ -66,8 +66,3 @@ Biliografia:
 
 1.Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing Anaerobic Sewer Biofilms. Applied and Environmental Microbiology [Internet]. [citado 3 de septiembre de 2026]. Disponible en: https://journals.asm.org/doi/10.1128/AEM.02146-14
 
-2.Yang J, Xu Z, Xia Z, Pei X, Yang Y, Qiu B, et al. Locating and quantifying CH4 sources within a wastewater treatment plant based on mobile measurements. Atmospheric Chemistry and Physics. 25 de abril de 2025;25(8):4571-85. doi:10.5194/acp-25-4571-2025
-
-3.Ullas S, Maheswari BU, Ponnekanti S, Kumar TMM. Automated System to Optimize the Process and Energy Consumption for Sewage Treatment Plant Based on Gas Emission by Using Sensors and IoT. IEEE Access. 2025;13:115972-89. doi:10.1109/ACCESS.2025.3585283
-
-
