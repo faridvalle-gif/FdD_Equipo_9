@@ -41,7 +41,7 @@ Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing An
 ## Patentes
 | N° | Título | Tema | Aporte | Año | Referencias |
 |----|--------|------|--------|-----|-------------|
-| 1 |A greenhouse gas monitoring device for wastewater treatment plants|Monitoreo in situ de GEI (CO₂, CH₄ N₂O) en estanques de tratamiento de aguas residuales.|
+| 1 |A greenhouse gas monitoring device for wastewater treatment plants|Monitoreo in situ de GEI (CO₂, CH₄ N₂O) en estanques de tratamiento de aguas residuales.|Sistema con gabinete anticorrosivo bajo micropresión positiva por gas inerte y colector flotante radial de área adaptable a tanques.|2026| Fan (2026) / CN116338087B
 | 2 |A detector for detecting molecules conveyed through a gaseous medium| Nariz electrónica (E-Nose) para la cuantificación y detección de moléculas de olor y volátiles en PTAR.|Matriz reducida de sensores de óxido metálico con sistema automatizado de purga de aire filtrado y auto-calibración remota por vapor de etanol.|2010|Barnett et al. (2010) / AU2005236083B2
 | 3 |An online greenhouse gas monitoring system for sewage treatment process| Monitoreo continuo y automatizado de la tasa de emisión de GEI en procesos biológicos de depuración.|Medición in situ en tiempo real mediante un flujo de muestreo automatizado para cuantificar emisiones producidas durante el proceso de tratamiento.|2024|Li et al. (2024) / CN118817638A
 
