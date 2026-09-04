@@ -41,9 +41,9 @@ Stratified Microbial Structure and Activity in Sulfide- and Methane-Producing An
 ## Patentes
 | N° | Título | Tema | Aporte | Año | Referencias |
 |----|--------|------|--------|-----|-------------|
-| 1 |A greenhouse gas monitoring device for wastewater treatment plants|Monitoreo in situ de GEI (CO₂, CH₄ N₂O) en estanques de tratamiento de aguas residuales.|Sistema con gabinete anticorrosivo bajo micropresión positiva por gas inerte y colector flotante radial de área adaptable a tanques.|2026| Fan (2026) / CN116338087B
-| 2 |A detector for detecting molecules conveyed through a gaseous medium| Nariz electrónica (E-Nose) para la cuantificación y detección de moléculas de olor y volátiles en PTAR.|Matriz reducida de sensores de óxido metálico con sistema automatizado de purga de aire filtrado y auto-calibración remota por vapor de etanol.|2010|Barnett et al. (2010) / AU2005236083B2
-| 3 |An online greenhouse gas monitoring system for sewage treatment process| Monitoreo continuo y automatizado de la tasa de emisión de GEI en procesos biológicos de depuración.|Medición in situ en tiempo real mediante un flujo de muestreo automatizado para cuantificar emisiones producidas durante el proceso de tratamiento.|2024|Li et al. (2024) / CN118817638A
+| 1 |A greenhouse gas monitoring device for wastewater treatment plants|Monitoreo in situ de GEI (CO₂, CH₄ N₂O) en estanques de tratamiento de aguas residuales.|Sistema con gabinete anticorrosivo bajo micropresión positiva por gas inerte y colector flotante radial de área adaptable a tanques.|2026| Fan H, inventor; Shangchuan Beijing Equipment Co Ltd, asignatario. Un dispositivo de monitoreo de gases de efecto invernadero para plantas de tratamiento de aguas residuales. Chinese Patent CN116338087B. 2026 Apr 28.
+| 2 |A detector for detecting molecules conveyed through a gaseous medium| Nariz electrónica (E-Nose) para la cuantificación y detección de moléculas de olor y volátiles en PTAR.|Matriz reducida de sensores de óxido metálico con sistema automatizado de purga de aire filtrado y auto-calibración remota por vapor de etanol.|2010|Barnett D, Bell G, Crowley B, Hibbert B, Levy DC, Srivastava AK, Wu W, inventores; E-NOSE Pty Ltd, asignatario. Un detector para detectar moléculas transportadas a través de un medio gaseoso. Australian Patent AU2005236083B2. 2010 Jul 8.
+| 3 |An online greenhouse gas monitoring system for sewage treatment process| Monitoreo continuo y automatizado de la tasa de emisión de GEI en procesos biológicos de depuración.|Medición in situ en tiempo real mediante un flujo de muestreo automatizado para cuantificar emisiones producidas durante el proceso de tratamiento.|2024|Li S, Li X, Cai R, Wu Q, Geng X, inventores; Linyi Shouchuang Water Service Co Ltd, asignatario. Sistema de monitoreo en línea de gases de efecto invernadero para el proceso de tratamiento de aguas residuales. Chinese Patent CN118817638A. 2024 Oct 22.
 
 
 
@@ -58,8 +58,8 @@ Biliografia:
 7. Parra-Orobio BA. Propuesta metodológica para estimar N₂O en inventarios de emisión y evaluaciones de eco-eficiencia en plantas de tratamiento de aguas residuales. Madrid: Cátedra AQUAE Economía del Agua, UNED; 2021.
 8. Junker AL, Polesel F, Dalkvist T. Climate mitigation in wastewater treatment: a practical guide. Monitoring, managing and reducing greenhouse gas emissions in wastewater treatment plants. Copenhagen: UNEP-DHI Centre on Water and Environment; 2025.
 9. Liu Y, Zhang X, Wang J, inventores. Monitoring method and device of dissolved greenhouse gases in wastewater. US Patent 12,339,259. Washington, DC: US Patent and Trademark Office; 2025.
-10. Fan (2026) / CN116338087B
-11. Barnett et al. (2010) / AU2005236083B2
-12. Li et al. (2024) / CN118817638A
+10. Fan H, inventor; Shangchuan Beijing Equipment Co Ltd, asignatario. Un dispositivo de monitoreo de gases de efecto invernadero para plantas de tratamiento de aguas residuales. Chinese Patent CN116338087B. 2026 Apr 28.
+11. Barnett D, Bell G, Crowley B, Hibbert B, Levy DC, Srivastava AK, Wu W, inventores; E-NOSE Pty Ltd, asignatario. Un detector para detectar moléculas transportadas a través de un medio gaseoso. Australian Patent AU2005236083B2. 2010 Jul 8.
+12. Li S, Li X, Cai R, Wu Q, Geng X, inventores; Linyi Shouchuang Water Service Co Ltd, asignatario. Sistema de monitoreo en línea de gases de efecto invernadero para el proceso de tratamiento de aguas residuales. Chinese Patent CN118817638A. 2024 Oct 22.
 
     
