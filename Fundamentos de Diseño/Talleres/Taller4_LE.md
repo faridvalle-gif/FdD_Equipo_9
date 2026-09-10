@@ -30,24 +30,24 @@
 | 10/09/2026 | Fuerzas | E | Soporte resistente al viento. | Pendiente |
 | 10/09/2026 | Fuerzas | E | Soporte de cargas asociadas a la inmersión y manipulación en campo. | Pendiente |
 | 10/09/2026 | Materia | E | Resistente a la corrosión por H₂S y a la humedad. | Pendiente |
-| 10/09/2026 | Energía | E | Panel solar autónomo. | Pendiente |
-| 10/09/2026 | Señales: entradas | E | Concentración de CH₄. | Pendiente |
-| 10/09/2026 | Señales: entradas | E | Temperatura del medio y humedad relativa. | Pendiente |
+| 10/09/2026 | Energía | E | Usar una fuente de energía autorenovable. | Pendiente |
+| 10/09/2026 | Señales: entradas | E | Medir concentración de CH₄. | Pendiente |
+| 10/09/2026 | Señales: entradas | E | Medir temperatura del medio y humedad relativa. | Pendiente |
 | 10/09/2026 | Señales: salidas | E | Registro digital de variables monitoreadas. | Pendiente |
 | 10/09/2026 | Señales: salidas | E | Reporte de emisiones estimadas. | Pendiente |
-| 10/09/2026 | Control | E | Pendiente de definición. | Pendiente |
-| 10/09/2026 | Electrónica (hardware) | E | Sensores de CO₂, metano, humedad, presión y temperatura. | Pendiente |
+| 10/09/2026 | Control | E | Alertar automáticamente al superar umbrales de gas. | Pendiente |
+| 10/09/2026 | Electrónica (hardware) | E | Medir con alta precisión concentraciones de CO2 y CH4 | Pendiente |
 | 10/09/2026 | Software | E | Almacenamiento, procesamiento y visualización de datos. | Pendiente |
-| 10/09/2026 | Comunicaciones |  | Pendiente de definición. | Pendiente |
+| 10/09/2026 | Comunicaciones | E | Compartir reportes y enviar alertas a través de señal inalámbrica. | Pendiente |
 | 10/09/2026 | Seguridad | E | Protección frente a la humedad y fallas eléctricas. | Pendiente |
-| 10/09/2026 | Ergonomía | E | Facilidad de operación. | Pendiente |
-| 10/09/2026 | Fabricación | E | Pendiente de definición. | Pendiente |
+| 10/09/2026 | Ergonomía | E | Facilidad labores de operación y mantenimiento. | Pendiente |
+| 10/09/2026 | Fabricación | E | Tener un ensamblaje con componentes comerciales estándar | Pendiente |
 | 10/09/2026 | Control de calidad | E | Pruebas de calibración de sensores antes de la instalación. | Pendiente |
 | 10/09/2026 | Montaje | E | Pendiente de definición. | Pendiente |
 | 10/09/2026 | Transporte | E | Pendiente de definición. | Pendiente |
 | 10/09/2026 | Uso | E | Pendiente de definición. | Pendiente |
-| 10/09/2026 | Mantenimiento | E | Sustitución o mantenimiento preventivo de filtros de partículas de la cámara de gas cada 30 días. | Pendiente |
-| 10/09/2026 | Mantenimiento | D | Sistema de autolimpieza o purga automática del ducto de gas con bomba de aire. | Pendiente |
+| 10/09/2026 | Mantenimiento | E | Debe tener mantenimiento preventivo de filtros de partículas de la cámara de gas cada 30 días. | Pendiente |
+| 10/09/2026 | Mantenimiento | D | Debe tener un sistema de autolimpieza o purga automática del ducto de gas con bomba de aire. | Pendiente |
 | 10/09/2026 | Costos | E | Costo de fabricación del prototipo funcional (BOM) menor a S/ 1,000. | Pendiente |
 | 10/09/2026 | Plazos | E | Desarrollo, ensamble y validación en entorno real en un plazo máximo de 12 a 16 semanas. | Pendiente |
 
