@@ -78,6 +78,7 @@ Nitrificación y sedimentación: El agua turbia desnitrificada se transporta a u
 **Campo de aplicación:** 
 Tratamiento de lodos y aguas residuales. Específicamente, se aplica en plantas de tratamiento para optimizar la aireación y las condiciones de reacción biológica, con el objetivo de reducir las emisiones de gases de efecto invernadero (como el óxido nitroso) y mejorar la eficiencia del proceso de desnitrificación y nitrificación.
 
+*4*
 **Título:**
 Sistema dinámico de detección y tratamiento de gases de efecto invernadero y gases malolientes de fosas sépticas y método de operación.
 
