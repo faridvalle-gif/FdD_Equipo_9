@@ -6,9 +6,9 @@
 
 - **Edición:** 10/09/2026
 - **Fecha:** 10/09/2026
-- **Cliente:** Pendiente
-- **Elaborado por:** Pendiente
-- **Revisado por:** Pendiente
+- **Cliente:** Empresas Privadas y Estatales
+- **Elaborado por:** Equipo 9
+- **Revisado por:** ____
 
 ## Convenciones
 
