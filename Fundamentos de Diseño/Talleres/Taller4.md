@@ -22,7 +22,17 @@
 | 10/09/2026 | E | Soportar fuertes cargas de viento. | Diseñador |
 | 10/09/2026 | E | Soportar cargas asociadas a la inmersión y manipulación en campo. | Diseñador |
 
-## SEÑALES - ENTRADAS
+## MATERIA
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Resistir la corrosión por H₂O y humedad. | Responsable de investigación |
+
+## ENERGÍA
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Usar una fuente de energía autorrenovable. | Programador/Modelador |
+
+## SEÑALES - ENTRADA_SALIDA
 | || Entrada ||
 |----------------|-----|-------------|-------------|
 | Fecha (cambios) | D/E | Descripción | Responsable |
