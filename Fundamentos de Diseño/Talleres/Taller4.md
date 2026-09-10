@@ -92,7 +92,7 @@
 ## MONTAJE
 | Fecha (cambios) | D/E | Descripción | Responsable |
 |----------------|-----|-------------|-------------|
-| ---- | ---- | ---- | Diseñador |
+| 10/09/2026 | E | Tener un diseño que permita su instalación en el tanque sin interrumpir la operación. | Diseñador |
 
 ## USO
 | Fecha (cambios) | D/E | Descripción | Responsable |
