@@ -26,14 +26,10 @@
 | || Entrada ||
 |----------------|-----|-------------|-------------|
 | Fecha (cambios) | D/E | Descripción | Responsable |
-|----------------|-----|-------------|-------------|
 | 10/09/2026 | E | Concentración de CH₄. | Responsable de investigación |
 | 10/09/2026 | E | Temperatura del medio y humedad relativa. | Responsable de investigación |
-
 | || Salida ||
-|----------------|-----|-------------|-------------|
 | Fecha (cambios) | D/E | Descripción | Responsable |
-|----------------|-----|-------------|-------------|
 | 10/09/2026 | E | Registro digital de variables monitoreadas. | Programador/Modelador |
 | 10/09/2026 | E | Reporte de emisiones estimadas. | Programador/Modelador |
 
