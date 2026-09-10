@@ -49,7 +49,7 @@
 | 10/09/2026 | Mantenimiento | E | Debe tener mantenimiento preventivo de filtros de partículas de la cámara de gas cada 30 días. | Junior |
 | 10/09/2026 | Mantenimiento | D | Debe tener un sistema de autolimpieza o purga automática del ducto de gas con bomba de aire. | Junior|
 | 10/09/2026 | Costos | E | Costo de fabricación del prototipo funcional (BOM) menor a S/ 1,000. | Farid y Yalef |
-| 10/09/2026 | Plazos | E | Desarrollo, ensamble y validación en entorno real en un plazo máximo de 12 a 16 semanas. | Yalef, Yamileth y Harold |
+| 10/09/2026 | Plazos | E | Desarrollo, ensamble y validación en entorno real en un plazo máximo de 12 a 16 semanas. | Yalef, Yamileth, Farid tu papá, Junior y  Harold |
 
 ## Estado del documento
 
