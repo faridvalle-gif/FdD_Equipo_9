@@ -102,7 +102,7 @@
 ## MANTENIMIENTO
 | Fecha (cambios) | D/E | Descripción | Responsable |
 |----------------|-----|-------------|-------------|
-| 10/09/2026 | E | Debe tener un mantenimiento rapido, cuyo diseo permita acceder de forma sencilla a los sensores integrados. | Encargado de documentación |
+| 10/09/2026 | E | Debe tener un mantenimiento rapido, cuyo diseño permita acceder de forma sencilla a los sensores integrados. | Encargado de documentación |
 | 10/09/2026 | D | Tener un sistema de auto-limpieza o purga automática del ducto de gas con bomba de aire. | Programador/Modelador |
 
 ## COSTOS
