@@ -1,4 +1,4 @@
- # Revisión de 3 patentes relacionadas con la meta de nuestro proyecto
+ # Revisión de 4 patentes relacionadas con la meta de nuestro proyecto
 
 *1*
 
