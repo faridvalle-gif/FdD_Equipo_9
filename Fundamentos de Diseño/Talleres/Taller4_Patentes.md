@@ -125,7 +125,7 @@ Ingeniería ambiental, saneamiento descentralizado y control de emisiones contam
 | Medición de H₂S | ❌ | ❌ | ❌ | ✅ |
 | Identificación de CO₂ fósil | ✅ | ❌ | ❌ | ❌ |
 | Análisis isotópico de carbono | ✅ | ❌ | ❌ | ❌ |
-| Internet de las cosas | ❌ | ✅ | ❌ | ⚪ |
+| Internet de las cosas (IoT) | ❌ | ✅ | ❌ | ⚪ |
 | Inteligencia artificial | ❌ | ✅ | ❌ | ❌ |
 | Simulación y predicción | ❌ | ✅ | ❌ | ❌ |
 | Control automático | ❌ | ✅ | ⚪ | ✅ |
