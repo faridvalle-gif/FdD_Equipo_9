@@ -104,5 +104,32 @@ Mientras tanto, se pone en marcha el dispositivo de recuperación de gas. Cuando
 **Campo de aplicación:**
 Ingeniería ambiental, saneamiento descentralizado y control de emisiones contaminantes, específicamente enfocado en el monitoreo inteligente, tratamiento de olores y recuperación de gases de efecto invernadero (GEI) en sistemas sépticos y tanques de tratamiento anaeróbico de aguas residuales.
 
+## Comparación de Patentes sobre Emisiones de GEI en PTAR
 
-**¿Qué aportan para el proyecto?**
+| Patente | Aporte principal | Características técnicas | Valores / Rangos relevantes | Aplicación |
+|----------|----------|----------|----------|----------|
+| **CN119551833A** | Metodología para cuantificar emisiones de CO₂ fósil en sistemas cerrados de tratamiento de aguas residuales. | - Monitoreo de CO₂, CH₄ y N₂O.<br>- Análisis isotópico de carbono (^14C).<br>- División del proceso en pretratamiento, tratamiento biológico y tratamiento avanzado.<br>- Cálculo de la contribución del carbono fósil al inventario de GEI. | - Resolución de monitoreo: **1 s**.<br>- Periodo de cálculo: **24 h (86.400 s)**.<br>- Variables: concentración de gases, velocidad de flujo y área de conductos. | Mejora la precisión de la huella de carbono y de los inventarios de emisiones en PTAR cerradas. |
+| **KR102665565B1** | Sistema inteligente de monitoreo y predicción de emisiones de GEI basado en IoT e IA. | - Sensores en tiempo real.<br>- Plataforma IoT.<br>- Base de datos histórica.<br>- Simulación operacional.<br>- Algoritmos de optimización mediante IA. | - Monitoreo en tiempo real.<br>- Integración de datos de calidad de agua y emisiones.<br>- Predicción de escenarios operativos. | Permite optimizar la operación de la planta para reducir emisiones y mejorar la gestión ambiental. |
+| **CN120172555A** | Método de reducción de N₂O mediante aireación controlada y optimización biológica del proceso de desnitrificación. | - Microaireación del lodo desnitrificante.<br>- Incremento de genes reductores de N₂O.<br>- Conversión mejorada de N₂O a N₂.<br>- Circuito de nitrificación y desnitrificación optimizado. | - Oxígeno disuelto: **0,2 mg/L** en microaireación.<br>- Oxígeno disuelto: **0,2 mg/L** en nitrificación.<br>- N₂O con potencial de calentamiento ≈ **310 veces CO₂**. | Reduce emisiones directas de N₂O manteniendo la eficiencia de eliminación de nitrógeno. |
+
+## Comparación de Innovaciones
+
+| Aspecto | CN119551833A | KR102665565B1 | CN120172555A |
+|----------|----------|----------|----------|
+| Monitoreo de GEI | ✅ | ✅ | ⚪ |
+| Cuantificación de CO₂ fósil | ✅ | ⚪ | ❌ |
+| Medición de N₂O | ✅ | ✅ | ✅ |
+| IoT | ❌ | ✅ | ❌ |
+| Inteligencia Artificial | ❌ | ✅ | ❌ |
+| Predicción de emisiones | ❌ | ✅ | ❌ |
+| Reducción directa de GEI | ⚪ | ⚪ | ✅ |
+| Parámetros operativos definidos | ✅ | ⚪ | ✅ |
+| Aplicación en inventarios de carbono | ✅ | ✅ | ❌ |
+
+## Conclusión
+
+- **CN119551833A** se enfoca en la **cuantificación precisa de emisiones de CO₂ fósil**.
+- **KR102665565B1** se enfoca en el **monitoreo inteligente, análisis de datos y optimización operacional**.
+- **CN120172555A** se enfoca en la **reducción efectiva de emisiones de N₂O mediante control de aireación**.
+
+Las tres patentes son complementarias: la primera mejora el cálculo de emisiones, la segunda mejora el monitoreo y control inteligente, y la tercera reduce directamente las emisiones generadas durante el tratamiento biológico.
