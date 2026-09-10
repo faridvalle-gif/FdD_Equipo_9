@@ -104,3 +104,8 @@
 | Fecha (cambios) | D/E | Descripción | Responsable |
 |----------------|-----|-------------|-------------|
 | 10/09/2026 | E | Tener un costo de fabricación del prototipo funcional (BOM) menor a 1000 PEN. | Líder del equipo |
+
+## PLAZOS
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Desarrollo, ensamble y validación en entorno real en un plazo máximo de 12 a 16 semanas. | Encargado de documentación |
