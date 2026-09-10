@@ -3,6 +3,7 @@
 
 **CLIENTE:** Entidades ambientales y centros de investigación.
 
+## FUNCIÓN PRINCIPAL
 | Fecha (cambios) | D/E | DESCRIPCIÓN | Responsable |
 |----------------|-----|-------------|-------------|
 | 10/09/2026 | E | Medir la calidad del agua para propósitos sanitarios y de uso. | Responsable de investigación |
