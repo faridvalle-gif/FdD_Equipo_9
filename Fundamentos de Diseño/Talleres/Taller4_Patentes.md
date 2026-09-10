@@ -103,3 +103,6 @@ Mientras tanto, se pone en marcha el dispositivo de recuperación de gas. Cuando
 
 **Campo de aplicación:**
 Ingeniería ambiental, saneamiento descentralizado y control de emisiones contaminantes, específicamente enfocado en el monitoreo inteligente, tratamiento de olores y recuperación de gases de efecto invernadero (GEI) en sistemas sépticos y tanques de tratamiento anaeróbico de aguas residuales.
+
+**¿Qué aportan para el proyecto?**
+
