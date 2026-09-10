@@ -49,6 +49,7 @@ La invención comprende una unidad de medición de gases, una unidad de construc
 **Campo de aplicación:** 
 Sistemas de monitoreo y control de procesos en plantas de tratamiento de aguas residuales, con el objetivo de reducir las emisiones de gases de efecto invernadero mediante el uso de tecnologías IoT, análisis de datos y simulación.
 
+---
 
 **Título:** 
 Método y sistema para mejorar la reducción de emisiones de gases de efecto invernadero basado en la regulación y el control de la aireación.
