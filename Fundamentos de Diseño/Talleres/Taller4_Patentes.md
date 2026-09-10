@@ -53,7 +53,9 @@ Sistemas de monitoreo y control de procesos en plantas de tratamiento de aguas r
 
 **Título:** 
 Método y sistema para mejorar la reducción de emisiones de gases de efecto invernadero basado en la regulación y el control de la aireación.
-Número: CN120172555A 
+
+**Número:** 
+CN120172555A 
 
 **Fecha de publicación:** 
 2025-06-20
