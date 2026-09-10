@@ -23,7 +23,7 @@ El método perfecciona el límite del sistema de contabilidad, establece un mét
 Sistemas cerrados de tratamiento de aguas residuales, específicamente para la contabilidad, monitoreo y verificación de emisiones de CO2 de origen fósil y otros gases de efecto invernadero. Es útil para la gestión ambiental, el cumplimiento de normativas de emisiones y la optimización de procesos en plantas de tratamiento.
 
 
-**Título:**
+#**Título:**
 Sistema y método de monitoreo de gases de efecto invernadero para plantas de tratamiento de aguas residuales
 
 **Número:** 
@@ -49,7 +49,7 @@ La invención comprende una unidad de medición de gases, una unidad de construc
 Sistemas de monitoreo y control de procesos en plantas de tratamiento de aguas residuales, con el objetivo de reducir las emisiones de gases de efecto invernadero mediante el uso de tecnologías IoT, análisis de datos y simulación.
 
 
-**Título:** 
+#**Título:** 
 Método y sistema para mejorar la reducción de emisiones de gases de efecto invernadero basado en la regulación y el control de la aireación.
 Número: CN120172555A 
 
