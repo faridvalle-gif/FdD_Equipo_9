@@ -23,7 +23,7 @@
 | 10/09/2026 | E | Soportar cargas asociadas a la inmersión y manipulación en campo. | Diseñador |
 
 ## SEÑALES - ENTRADAS
-|  | | ENTRADAS |  |
+| __ | __| ENTRADAS | __ |
 | Fecha (cambios) | D/E | Descripción | Responsable |
 |----------------|-----|-------------|-------------|
 | 10/09/2026 | E | Concentración de CH₄. | Responsable de investigación |
