@@ -1,4 +1,5 @@
 *1*
+
 **Título:**
 Método de contabilidad de emisiones de CO2 de origen fósil en sistemas cerrados de tratamiento de aguas residuales
 Abstracto
@@ -25,6 +26,7 @@ Sistemas cerrados de tratamiento de aguas residuales, específicamente para la c
 
 ---
 *2*
+
 **Título:**
 Sistema y método de monitoreo de gases de efecto invernadero para plantas de tratamiento de aguas residuales
 
@@ -52,6 +54,7 @@ Sistemas de monitoreo y control de procesos en plantas de tratamiento de aguas r
 
 ---
 *3*
+
 **Título:** 
 Método y sistema para mejorar la reducción de emisiones de gases de efecto invernadero basado en la regulación y el control de la aireación.
 
