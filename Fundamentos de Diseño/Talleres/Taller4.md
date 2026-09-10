@@ -57,3 +57,50 @@
 | Fecha (cambios) | D/E | Descripción | Responsable |
 |----------------|-----|-------------|-------------|
 | 10/09/2026 | E | Almacenamiento, procesamiento y visualización de datos. | Programador/Modelador |
+
+## COMUNICACIONES
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Compartir reportes a través de señal inalámbrica. | Programador/Modelador |
+| 10/09/2026 | E | Emitir alertas a través de señal inalámbrica. | Programador/Modelador |
+
+## SEGURIDAD
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Proteger los sensores frente a la humedad y fallas eléctricas. | Líder del equipo |
+
+## ERGONOMÍA
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Facilitar labores de operación y mantenimiento. | Diseñador |
+
+## FABRICACIÓN
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Tener un ensamblaje con componentes comerciales estándar. | Diseñador |
+
+## CONTROL DE CALIDAD
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Probar y calibrar los sensores antes de instalación. | Responsable de investigación |
+
+## MONTAJE
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| ---- | ---- | ---- | Diseñador |
+
+## USO
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| ---- | ---- | ---- | Líder del equipo |
+
+## MANTENIMIENTO
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Debe tener un mantenimiento rapido, cuyo diseo permita acceder de forma sencilla a los sensores integrados. | Encargado de documentación |
+| 10/09/2026 | D | Tener un sistema de auto-limpieza o purga automática del ducto de gas con bomba de aire. | Programador/Modelador |
+
+## COSTOS
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Tener un costo de fabricación del prototipo funcional (BOM) menor a 1000 PEN. | Líder del equipo |
