@@ -41,6 +41,7 @@
 | Fecha (cambios) | D/E | Descripción | Responsable |
 | 10/09/2026 | E | Medir concentración de CH₄. | Responsable de investigación |
 | 10/09/2026 | E | Temperatura del medio y humedad relativa. | Responsable de investigación |
+
 | || Salida ||
 |----------------|-----|-------------|-------------|
 | Fecha (cambios) | D/E | Descripción | Responsable |
