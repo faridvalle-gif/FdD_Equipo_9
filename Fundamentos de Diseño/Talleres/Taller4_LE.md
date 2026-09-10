@@ -20,11 +20,11 @@
 
 | Fecha | Categoría | Tipo | Descripción | Responsable |
 |---|---|:---:|---|---|
-| 10/09/2026 | Función principal | E | Sensar y cuantificar CH₄, CO₂ y N₂O en tanques de tratamiento. | Pendiente |
+| 10/09/2026 | Función principal | E | Medir la calidad del agua para propositos sanitarios y de uso. | Pendiente |
 | 10/09/2026 | Función principal | E | Almacenar datos con marca temporal. | Pendiente |
 | 10/09/2026 | Función principal | E | Generar alertas por emisiones superiores a umbrales definidos. | Pendiente |
-| 10/09/2026 | Geometría | E | Dimensiones máximas: 30 × 20 × 15 cm. | Pendiente |
-| 10/09/2026 | Geometría | E | Carcasa compacta para montaje en borde de tanque. | Pendiente |
+| 10/09/2026 | Geometría | E | Debe tener dimensiones máximas: 30 × 20 × 15 cm. | Pendiente |
+| 10/09/2026 | Geometría | E | Debe tener una carcasa compacta para montaje en borde de tanque. | Pendiente |
 | 10/09/2026 | Geometría | E | Permitir la integración modular de sensores y módulos electrónicos. | Pendiente |
 | 10/09/2026 | Geometría | D | Facilitar la expansión del sistema mediante módulos intercambiables. | Pendiente |
 | 10/09/2026 | Fuerzas | E | Soporte resistente al viento. | Pendiente |
