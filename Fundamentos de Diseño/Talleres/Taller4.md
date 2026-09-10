@@ -43,3 +43,17 @@
 | 10/09/2026 | E | Registro digital de variables monitoreadas. | Programador/Modelador |
 | 10/09/2026 | E | Reporte de emisiones estimadas. | Programador/Modelador |
 
+## CONTROL
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Alertar automáticamente al superar umbrales de gas. | Programador/Modelador |
+
+## ELECTRÓNICA (HARDWARE)
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Medir con alta precisión concentraciones de CO₂ y metano. | Programador/Modelador |
+
+## SOFTWARE
+| Fecha (cambios) | D/E | Descripción | Responsable |
+|----------------|-----|-------------|-------------|
+| 10/09/2026 | E | Almacenamiento, procesamiento y visualización de datos. | Programador/Modelador |
