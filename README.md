@@ -44,11 +44,10 @@ Al contribuir a la reducción de contaminantes atmosféricos, se mejora la calid
 #### Meta 11.6: Reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la calidad del aire.
 <img src="images/ods-11.png" width="300">
 
-### ODS 12 - Producción y Consumo Responsables
-Busca asegurar modalidades de consumo y producción sostenibles, reduciendo la generación de desechos y promoviendo el uso eficiente de los recursos.
-Relacionado con la gestión sostenible de residuos y la reducción de emisiones contaminantes en procesos industriales y de tratamiento.
-#### Meta 12.4: Lograr la gestión ambientalmente racional de los productos químicos y todos los desechos a lo largo de su ciclo de vida.
-<img src="images/ods-12.png" width="300">
+### ODS 06 - Agua limpia Y Saneamiento
+Garantiza la disponibilidad de agua, su gestión sostenible y el saneamiento para todos. Se relaciona directamente con la optimización y control en las plantas de tratamiento de aguas residuales para evitar la contaminación de los recursos hídricos
+#### Meta 6.3: Mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de químicos peligrosos, reduciendo a la mitad la proporción de aguas residuales sin tratar.
+<img src="images/ods-06.png" width="300">
 
 
 ---
