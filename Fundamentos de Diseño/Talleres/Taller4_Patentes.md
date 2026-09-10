@@ -104,32 +104,62 @@ Mientras tanto, se pone en marcha el dispositivo de recuperación de gas. Cuando
 **Campo de aplicación:**
 Ingeniería ambiental, saneamiento descentralizado y control de emisiones contaminantes, específicamente enfocado en el monitoreo inteligente, tratamiento de olores y recuperación de gases de efecto invernadero (GEI) en sistemas sépticos y tanques de tratamiento anaeróbico de aguas residuales.
 
-## Comparación de Patentes sobre Emisiones de GEI en PTAR
+## Comparación de patentes sobre monitoreo y reducción de GEI en aguas residuales
 
-| Patente | Aporte principal | Características técnicas | Valores / Rangos relevantes | Aplicación |
-|----------|----------|----------|----------|----------|
-| **CN119551833A** | Metodología para cuantificar emisiones de CO₂ fósil en sistemas cerrados de tratamiento de aguas residuales. | - Monitoreo de CO₂, CH₄ y N₂O.<br>- Análisis isotópico de carbono (^14C).<br>- División del proceso en pretratamiento, tratamiento biológico y tratamiento avanzado.<br>- Cálculo de la contribución del carbono fósil al inventario de GEI. | - Resolución de monitoreo: **1 s**.<br>- Periodo de cálculo: **24 h (86.400 s)**.<br>- Variables: concentración de gases, velocidad de flujo y área de conductos. | Mejora la precisión de la huella de carbono y de los inventarios de emisiones en PTAR cerradas. |
-| **KR102665565B1** | Sistema inteligente de monitoreo y predicción de emisiones de GEI basado en IoT e IA. | - Sensores en tiempo real.<br>- Plataforma IoT.<br>- Base de datos histórica.<br>- Simulación operacional.<br>- Algoritmos de optimización mediante IA. | - Monitoreo en tiempo real.<br>- Integración de datos de calidad de agua y emisiones.<br>- Predicción de escenarios operativos. | Permite optimizar la operación de la planta para reducir emisiones y mejorar la gestión ambiental. |
-| **CN120172555A** | Método de reducción de N₂O mediante aireación controlada y optimización biológica del proceso de desnitrificación. | - Microaireación del lodo desnitrificante.<br>- Incremento de genes reductores de N₂O.<br>- Conversión mejorada de N₂O a N₂.<br>- Circuito de nitrificación y desnitrificación optimizado. | - Oxígeno disuelto: **0,2 mg/L** en microaireación.<br>- Oxígeno disuelto: **0,2 mg/L** en nitrificación.<br>- N₂O con potencial de calentamiento ≈ **310 veces CO₂**. | Reduce emisiones directas de N₂O manteniendo la eficiencia de eliminación de nitrógeno. |
+| Patente | Problema que aborda | Aporte principal | Características técnicas | Valores / Rangos relevantes | Aplicación |
+|---|---|---|---|---|---|
+| **CN119551833A** | Falta de metodologías precisas para diferenciar las emisiones de CO₂ fósil de las emisiones de CO₂ biogénico en sistemas cerrados de tratamiento de aguas residuales. | Propone una metodología para cuantificar las emisiones de CO₂ de origen fósil mediante el monitoreo de gases y el análisis isotópico del carbono. | Monitoreo de CO₂, CH₄ y N₂O.<br><br>Análisis de carbono radiactivo mediante espectrometría de masas con acelerador.<br><br>Determinación de la fracción de carbono fósil.<br><br>División de la PTAR en pretratamiento, tratamiento bioquímico y tratamiento avanzado.<br><br>Cálculo de emisiones en función de la concentración, velocidad del gas, área del conducto y tiempo de medición. | Resolución de monitoreo: **1 s**.<br><br>Periodo de cálculo diario: **24 h o 86 400 s**.<br><br>Gases considerados: **CO₂, CH₄ y N₂O**.<br><br>Variables: concentración del gas, velocidad del flujo en m/s y área transversal en m². | Elaboración de inventarios de GEI.<br><br>Cuantificación de la contribución fósil a la huella de carbono.<br><br>Evaluación ambiental de PTAR cerradas. |
+| **KR102665565B1** | Necesidad de monitorear continuamente los GEI y optimizar las condiciones operativas de las plantas de tratamiento para reducir sus emisiones. | Desarrolla un sistema inteligente basado en IoT, bases de datos, simulación e inteligencia artificial para medir, predecir y minimizar las emisiones de GEI. | Unidad de medición instalada en el biorreactor.<br><br>Adquisición de datos en tiempo real.<br><br>Construcción de una base de datos de calidad de agua y emisiones.<br><br>Simulación del tratamiento bajo diferentes condiciones operativas.<br><br>Algoritmo de IA para determinar condiciones que minimicen las emisiones.<br><br>Mantenimiento de la actividad biológica adecuada del tanque de reacción. | Monitoreo: **tiempo real**.<br><br>Variables integradas: calidad del agua, emisiones de GEI y condiciones de operación.<br><br>No se identifica en el resumen un único rango numérico de operación aplicable a todos los escenarios. | Digitalización de PTAR.<br><br>Predicción de emisiones.<br><br>Optimización automática de procesos.<br><br>Apoyo a decisiones operativas basadas en datos. |
+| **CN120172555A** | Elevadas emisiones de N₂O producidas durante los procesos convencionales de nitrificación y desnitrificación. | Propone una estrategia de microaireación controlada para aumentar la reducción biológica del N₂O y favorecer su conversión a N₂. | Pretratamiento microaeróbico del lodo desnitrificante.<br><br>Incremento de la expresión de genes reductores de N₂O.<br><br>Conversión parcial del nitrógeno amoniacal en nitrato.<br><br>Conversión del N₂O en nitrógeno gaseoso.<br><br>Recirculación entre el reactor de desnitrificación, reactor de nitrificación y sedimentador secundario. | Oxígeno disuelto durante la microaireación: **0,2 mg/L**.<br><br>Oxígeno disuelto en el reactor de nitrificación: **0,2 mg/L**.<br><br>Gas objetivo: **N₂O**.<br><br>El documento señala un potencial de calentamiento del N₂O equivalente a aproximadamente **310 veces el del CO₂**. | Reducción directa de emisiones de N₂O.<br><br>Optimización de la eliminación biológica de nitrógeno.<br><br>Aplicación en sistemas de lodos activados con nitrificación y desnitrificación. |
+| **CN117510009A** | Generación y acumulación de CH₄ y H₂S en fosas sépticas, con impactos climáticos, malos olores y riesgos para el personal de limpieza y mantenimiento. | Integra en un mismo sistema la liberación controlada, detección dinámica, tratamiento y recuperación de gases producidos en una fosa séptica. | Fosa séptica de **tres compartimentos interconectados**.<br><br>Dos respiraderos superiores equipados con sensores inteligentes.<br><br>Agitador para remover las aguas residuales del fondo y facilitar la liberación de CH₄ y H₂S.<br><br>Controlador conectado al sistema de monitoreo.<br><br>Dosificación controlada de material a base de hierro para remover H₂S.<br><br>Dispositivo de recuperación de CH₄.<br><br>Activación del sistema de purificación cuando los gases superan los valores establecidos. | Compartimentos: **3**.<br><br>Respiraderos superiores: **2**.<br><br>Gases monitoreados: **CH₄ y H₂S**.<br><br>La patente indica que una fosa séptica puede retener aproximadamente **50 % a 60 %** de los sólidos suspendidos y de la materia orgánica asociada.<br><br>Los umbrales exactos de activación dependen del valor estándar configurado en el controlador. | Monitoreo de gases en fosas sépticas.<br><br>Reducción de olores y riesgos por H₂S.<br><br>Recuperación y posible aprovechamiento del CH₄.<br><br>Protección del personal de mantenimiento.<br><br>Automatización de la purificación de gases. |
 
-## Comparación de Innovaciones
+## Comparación de las innovaciones
 
-| Aspecto | CN119551833A | KR102665565B1 | CN120172555A |
-|----------|----------|----------|----------|
-| Monitoreo de GEI | ✅ | ✅ | ⚪ |
-| Cuantificación de CO₂ fósil | ✅ | ⚪ | ❌ |
-| Medición de N₂O | ✅ | ✅ | ✅ |
-| IoT | ❌ | ✅ | ❌ |
-| Inteligencia Artificial | ❌ | ✅ | ❌ |
-| Predicción de emisiones | ❌ | ✅ | ❌ |
-| Reducción directa de GEI | ⚪ | ⚪ | ✅ |
-| Parámetros operativos definidos | ✅ | ⚪ | ✅ |
-| Aplicación en inventarios de carbono | ✅ | ✅ | ❌ |
+| Aspecto tecnológico | CN119551833A | KR102665565B1 | CN120172555A | CN117510009A |
+|---|:---:|:---:|:---:|:---:|
+| Monitoreo de gases | ✅ | ✅ | ⚪ | ✅ |
+| Monitoreo en tiempo real o dinámico | ✅ | ✅ | ❌ | ✅ |
+| Medición de CO₂ | ✅ | Posible según configuración | ❌ | ❌ |
+| Medición de CH₄ | ✅ | Posible según configuración | ❌ | ✅ |
+| Medición de N₂O | ✅ | Posible según configuración | ✅ | ❌ |
+| Medición de H₂S | ❌ | ❌ | ❌ | ✅ |
+| Identificación de CO₂ fósil | ✅ | ❌ | ❌ | ❌ |
+| Análisis isotópico de carbono | ✅ | ❌ | ❌ | ❌ |
+| Internet de las cosas | ❌ | ✅ | ❌ | ⚪ |
+| Inteligencia artificial | ❌ | ✅ | ❌ | ❌ |
+| Simulación y predicción | ❌ | ✅ | ❌ | ❌ |
+| Control automático | ❌ | ✅ | ⚪ | ✅ |
+| Reducción directa de emisiones | ❌ | Indirecta | ✅ | ✅ |
+| Recuperación de metano | ❌ | ❌ | ❌ | ✅ |
+| Eliminación de olores | ❌ | ❌ | ❌ | ✅ |
+| Parámetro operativo numérico | ✅ | No especificado en el resumen | ✅ | ✅ |
+| Aplicación principal | Inventario de carbono | Optimización inteligente de PTAR | Reducción de N₂O | Control de gases en fosas sépticas |
 
-## Conclusión
+## Aporte individual de cada patente
 
-- **CN119551833A** se enfoca en la **cuantificación precisa de emisiones de CO₂ fósil**.
-- **KR102665565B1** se enfoca en el **monitoreo inteligente, análisis de datos y optimización operacional**.
-- **CN120172555A** se enfoca en la **reducción efectiva de emisiones de N₂O mediante control de aireación**.
+### CN119551833A
 
-Las tres patentes son complementarias: la primera mejora el cálculo de emisiones, la segunda mejora el monitoreo y control inteligente, y la tercera reduce directamente las emisiones generadas durante el tratamiento biológico.
+Su principal aporte es la **cuantificación diferenciada del CO₂ de origen fósil** emitido por un sistema cerrado de tratamiento de aguas residuales. La patente combina el monitoreo de CO₂, CH₄ y N₂O con el análisis isotópico de carbono para estimar qué proporción de las emisiones procede de materiales fósiles y cuál tiene origen biogénico.
+
+### KR102665565B1
+
+Su aporte consiste en la **digitalización del monitoreo y la optimización de las emisiones de GEI**. El sistema integra sensores, IoT, almacenamiento histórico, simulación e inteligencia artificial para relacionar las condiciones de operación de la planta con la cantidad de gases generados.
+
+### CN120172555A
+
+Su principal aporte es una **medida operativa de mitigación del N₂O**. La patente controla el oxígeno disuelto en 0,2 mg/L durante etapas específicas, con el propósito de favorecer la expresión de genes reductores de óxido nitroso y promover la conversión del N₂O en N₂.
+
+### CN117510009A
+
+Su aporte es la integración de **detección dinámica, tratamiento de gases, automatización y recuperación de metano en fosas sépticas**. El sistema libera de forma controlada el CH₄ y el H₂S acumulados, mide sus concentraciones y activa automáticamente la eliminación del H₂S y la recuperación del CH₄.
+
+## Conclusión comparativa
+
+Las cuatro patentes corresponden a funciones complementarias dentro de una estrategia integral:
+
+1. **CN119551833A:** cuantifica la procedencia fósil de las emisiones.
+2. **KR102665565B1:** monitorea, predice y optimiza la operación mediante IoT e IA.
+3. **CN120172555A:** reduce directamente la producción y emisión de N₂O.
+4. **CN117510009A:** detecta CH₄ y H₂S, elimina el H₂S y recupera el metano generado en fosas sépticas.
+
+En conjunto, las patentes cubren cuatro niveles tecnológicos: **cuantificación, monitoreo inteligente, reducción biológica y recuperación o tratamiento de gases**.
