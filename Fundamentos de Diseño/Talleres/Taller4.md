@@ -16,6 +16,7 @@
 | 10/09/2026 | E | Debe tener dimensiones máximas: 30x20x15 cm. | Diseñador |
 | 10/09/2026 | E | Debe tener una carcasa compacta para montaje en borde de tanque. | Diseñador |
 | 10/09/2026 | E | Permitir la integración modular de sensores y módulos electrónicos. | Diseñador |
+| 10/09/2026 | E | Diseño de boya flotante con base de flotadores | Diseñador |
 | 10/09/2026 | D | Facilitar la expansión del sistema mediante módulos intercambiables. | Diseñador |
 
 ## FUERZAS
