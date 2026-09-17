@@ -18,14 +18,16 @@ Trabajaremos con los siguientes ODS:
 ### ODS PRINCIPAL 
 ---
 
-### ODS 13 - Acción por el clima 
-Busca fortalecer la resiliencia y la capacidad de adaptación a los riesgos relacionados con el clima, integrar medidas en políticas y estrategias nacionales, y mejorar la educación y la conciencia sobre el cambio climático. La reducción de emisiones de gases de efecto invernadero es clave para limitar el calentamiento global.
+### ODS 06 - Agua limpia y saneamiento
 
-Esta ODS se enfoca en tomar medidas urgentes para combatir el cambio climático y sus impactos. La medición y control de gases de efecto
-invernadero, como el metano producido en tanques de tratamiento, contribuye directamente a esta meta.
-#### Meta 13.2: Integrar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
-#### Meta 13.3: Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto a la mitigación del cambio climático.
-<img src="images/ods 13.jpg" width="300">
+Garantiza la disponibilidad de agua, su gestión sostenible y el saneamiento para todos. Se relaciona directamente con la optimización y control de las plantas de tratamiento de aguas residuales, permitiendo prevenir la contaminación de los recursos hídricos y mejorar la gestión ambiental de estos sistemas.
+
+Debido a que nuestro proyecto se enfoca en el monitoreo de gases generados en los tanques de tratamiento de aguas residuales, contribuye a una operación más eficiente y sostenible de estas instalaciones, favoreciendo la protección de la calidad del agua y el adecuado tratamiento de las aguas residuales.
+ 
+#### Meta 6.3:
+Mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de químicos peligrosos, reduciendo a la mitad la proporción de aguas residuales sin tratar.
+
+<img src="images/ods-06.png" width="300">
 
 ---
 ### ODS RELACIONADAS
@@ -44,10 +46,11 @@ Al contribuir a la reducción de contaminantes atmosféricos, se mejora la calid
 #### Meta 11.6: Reducir el impacto ambiental negativo per cápita de las ciudades, prestando especial atención a la calidad del aire.
 <img src="images/ods-11.png" width="300">
 
-### ODS 06 - Agua limpia Y Saneamiento
-Garantiza la disponibilidad de agua, su gestión sostenible y el saneamiento para todos. Se relaciona directamente con la optimización y control en las plantas de tratamiento de aguas residuales para evitar la contaminación de los recursos hídricos
-#### Meta 6.3: Mejorar la calidad del agua reduciendo la contaminación, eliminando el vertimiento y minimizando la emisión de químicos peligrosos, reduciendo a la mitad la proporción de aguas residuales sin tratar.
-<img src="images/ods-06.png" width="300">
+#### Meta 13.2:
+Integrar medidas relativas al cambio climático en las políticas, estrategias y planes nacionales.
+#### Meta 13.3:
+Mejorar la educación, la sensibilización y la capacidad humana e institucional respecto a la mitigación del cambio climático.
+<img src="images/ods 13.jpg" width="300">
 
 
 ---
