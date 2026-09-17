@@ -42,3 +42,7 @@ Los resultados se observan en la siguiente tabla.
 | 3.3V | 3.294 | 0.006 | 0.182% |
 | 3.3V | 3.295 | 0.005 | 0.152% |
 
+---
+PRÁCTICA N°2 
+**ARREGLO DE RESISTENCIAS** 
+
