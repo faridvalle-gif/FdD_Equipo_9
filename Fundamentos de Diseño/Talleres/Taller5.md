@@ -47,3 +47,4 @@ PRÁCTICA N°2
 **ARREGLO DE RESISTENCIAS** 
 
 <img src="images/Circuito1.png" width="300">
+![Texto alternativo](../images/Circuito1.png)
