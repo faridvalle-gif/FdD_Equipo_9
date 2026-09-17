@@ -1,3 +1,11 @@
+**PRÁCTICA N°1**:
+Uso de la fuente de alimentación regulable y el voltímetro.
+
+Se comparó el valor esperado (Vr) con el valor medido de la fuente (Vm), de ello se comparo el margen de diferencia (|Vm-Vr|)
+para luego hallar el porcentaje de error (Ea/Vr).
+Los resultados se observan en la siguiente tabla.
+
+---
 
 | Vr | Vm | \|Vm-Vr\| | Ea/Vr |
 | :--- | :--- | :--- | :--- |
