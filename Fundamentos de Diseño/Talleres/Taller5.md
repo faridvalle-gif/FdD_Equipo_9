@@ -46,4 +46,4 @@ Los resultados se observan en la siguiente tabla.
 PRÁCTICA N°2 
 **ARREGLO DE RESISTENCIAS** 
 
-<img src="images/Circuito1.png" width="300">
+<img src=".../Circuito1.png" width="300">
