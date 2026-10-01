@@ -20,11 +20,11 @@
 
 | Fecha | Categoría | Tipo | Descripción | Responsable |
 |---|---|:---:|---|---|
-| 10/09/2026 | Función principal | E | Medir la calidad del agua para propositos sanitarios y de uso. | Yamileth |
+| 10/09/2026 | Función principal | E | Medir gases de efecto hibernadero espetados por agua residual para propositos sanitarios y de uso. | Yamileth |
 | 10/09/2026 | Función principal | E | Almacenar datos con marca temporal. | Yalef |
 | 10/09/2026 | Función principal | E | Generar alertas por emisiones superiores a umbrales definidos. | Junior |
-| 10/09/2026 | Geometría | E | Debe tener dimensiones mayores o iguales a un metro cuadrado. | Farid |
-| 10/09/2026 | Geometría | E | Debe tener una carcasa compacta para montaje en borde de tanque. | Yalef |
+| 10/09/2026 | Geometría | E | Debe tener dimensiones menores o iguales a un metro cuadrado. | Farid |
+| 10/09/2026 | Geometría | E | Debe tener una carcasa compacta, flotante y a prueba de agua | Yalef |
 | 10/09/2026 | Geometría | E | Permitir la integración modular de sensores y módulos electrónicos. | Harold |
 | 10/09/2026 | Geometría | D | Facilitar la expansión del sistema mediante módulos intercambiables. | Yalef |
 | 10/09/2026 | Fuerzas | E | Soporte resistente al viento. | Yamileth |
