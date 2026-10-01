@@ -13,4 +13,4 @@ En esta sección se presentan las certificaciones y cursos completados en el pan
 
 ---
 *Junior Pablo*
-![Certificados de Onshape en Training Dashboard](../../images/Certificado_Junior_Pablo.png.png)
+![Certificados de Onshape en Training Dashboard](../../images/Certificado_Junior_Pablo.png)
