@@ -8,4 +8,9 @@ En esta sección se presentan las certificaciones y cursos completados en el pan
   - *Introduction to Onshape Assemblies*
   - *Detailed Drawings*
 
+*Farid Valle*
 ![Certificados de Onshape en Training Dashboard](../../images/certificado_onshapeF.png)
+
+---
+*Junior Pablo*
+![Certificados de Onshape en Training Dashboard](../../images/Certificado_Junior_Pablo.png.png)
