@@ -16,3 +16,10 @@ En esta sección se presentan las certificaciones y cursos completados en el pan
 ![Certificados de Onshape en Training Dashboard](../../images/Certificado_Junior_Pablo.png)
 
 ---
+*Yalef Moncca*
+
+---
+*Yamileth Tenorio*
+
+---
+*Harold Dair Avilez*
