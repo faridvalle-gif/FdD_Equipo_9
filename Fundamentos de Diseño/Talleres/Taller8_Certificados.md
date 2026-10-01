@@ -8,4 +8,4 @@ En esta sección se presentan las certificaciones y cursos completados en el pan
   - *Introduction to Onshape Assemblies*
   - *Detailed Drawings*
 
-![Certificados de Onshape en Training Dashboard](../../images/certificado_onshape.png)
+![Certificados de Onshape en Training Dashboard](../../images/certificado_onshapeF.png)
