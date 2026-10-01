@@ -32,7 +32,8 @@
 | 10/09/2026 | Materia | E | Resistente a la corrosión por H₂S y a la humedad. | Yamileth |
 | 10/09/2026 | Energía | E | Usar una fuente de energía autorenovable. | Yamileth |
 | 10/09/2026 | Señales: entradas | E | Medir concentración de CH₄. | Yamileth |
-| 10/09/2026 | Señales: entradas | E | Medir temperatura del medio y humedad relativa. | Yamieth |
+| 10/09/2026 | Señales: entradas | E | Medir temperatura del medio y humedad relativa. | Yamileth |
+| 10/09/2026 | Señales: entradas | E | Medir pH para la corrección de solubilidad de gases. | Yamileth |
 | 10/09/2026 | Señales: salidas | E | Registro digital de variables monitoreadas. | Farid |
 | 10/09/2026 | Señales: salidas | E | Reporte de emisiones estimadas. | Yalef |
 | 10/09/2026 | Control | E | Alertar automáticamente al superar umbrales de gas. | Junior |
