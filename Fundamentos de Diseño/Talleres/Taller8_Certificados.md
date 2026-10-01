@@ -17,7 +17,7 @@ En esta sección se presentan las certificaciones y cursos completados en el pan
 
 ---
 *Yalef Moncca*
-![Certificados de Onshape en Training Dashboard](../../images/Certificado_Junior_Pablo.png)
+![Certificados de Onshape en Training Dashboard](../../images/Certificado_Yalef_Moncca.png)
 ---
 *Yamileth Tenorio*
 
