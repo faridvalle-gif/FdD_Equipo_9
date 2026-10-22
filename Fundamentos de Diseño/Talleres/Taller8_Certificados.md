@@ -23,4 +23,4 @@ En esta sección se presentan las certificaciones y cursos completados en el pan
 ![Certificados de Onshape en Training Dashboard](../../images/Certificado_Yamileth_Tenorio.png) 
 ---
 *Harold Dair Avilez*
-![Certificados de Onshape en Training Dashboard](../../images/Certificado_Harold_Avilez_Salinas.png)
+![Certificados de Onshape en Training Dashboard](../../images/Certificado_Harold_Avilez.png)
