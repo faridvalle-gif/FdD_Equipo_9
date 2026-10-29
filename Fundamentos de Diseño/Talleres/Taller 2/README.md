@@ -1,3 +1,3 @@
 # Taller 2
 
-Carpeta reservada. El material pendiente de clasificación se mantiene fuera hasta confirmar que corresponde a este taller.
+Pueden decirme que iba aquí, porque creo que no había algo más que poner XD, este taller lo publicamos en otra sección verdad .
